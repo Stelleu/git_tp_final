@@ -39,7 +39,7 @@ Dans ce second exercice, vous allez modifier les lignes qui suivent dans le READ
 Noms des étudiants : 
 * Ait Faska Reda 
 * Nkumba Estelle
-* Ait Faska Reda
+* Nkumba Estelle
 
 Date du jour : 06/01/2022
 
